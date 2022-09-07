@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "欢欢", 
-      id: "oRHYX6F0vqgI8xULPHbWSfgj-w50",
+      id: "oRHYX6AAEVJtlHO04YLGq96FlJHA",
       useTemplateId: "SGxPd2kpTdzQEoWhbp3kSCQcdLwe5fx3ZqKZ96qVars",
       province: "重庆",
       city: "重庆",
