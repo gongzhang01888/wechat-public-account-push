@@ -106,7 +106,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"keyword": "love_day", date: "2019-10-12"},
+    {"keyword": "marry_day", date: "2019-10-12"},
     {"type": "生日", "name": "凯欢", "year": "2000", "date": "03-10"},
     {"type": "生日", "name": "刘乾祥", "year": "2000", "date": "09-10"},
   ],
@@ -116,7 +116,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 3,
+  FESTIVALS_LIMIT: 0,
 
   /** 日期相关 */
 
