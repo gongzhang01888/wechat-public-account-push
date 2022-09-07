@@ -45,10 +45,10 @@ export const config = {
     }, 
     {
       name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      id: "oRHYX6F0vqgI8xULPHbWSfgj-w50",
+      useTemplateId: "5X7bv758h5wDcTa0YLV8PGes63nQUVhUhUmwyxGibmg",
+      province: "重庆",
+      city: "重庆",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
