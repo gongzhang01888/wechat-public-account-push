@@ -51,22 +51,6 @@ export const config = {
       city: "重庆",
       openUrl: ""
     }, 
-    {
-      name: "",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: ""
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
   ],
 
   /**
