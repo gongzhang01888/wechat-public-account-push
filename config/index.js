@@ -109,7 +109,7 @@ export const config = {
    
     {"type": "生日", "name": "凯欢", "year": "2000", "date": "03-10"},
     {"type": "生日", "name": "刘乾祥", "year": "2000", "date": "09-10"},
-    {"type": "纪念日", "name": "在一起", "year": "2019", "date": "09-10"},
+    {"type": "纪念日", "name": "在一起", "year": "2019", "date": "10-12"},
   ],
 
   /**
@@ -127,7 +127,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2019-10-12"},
     // 结婚纪念日
     // {"keyword": "marry_day", date: "2020-01-04"},
     // 退伍日, 不用可以删掉
